@@ -5,7 +5,7 @@ function CollapsibleExample({ setPage }) {
     return (
         <Navbar collapseOnSelect expand="lg" bg="success" variant="dark">
             <Container>
-                <Navbar.Brand href='/'>Logo</Navbar.Brand>
+                <Navbar.Brand href='/'>NRJ</Navbar.Brand>
                 <Navbar.Toggle aria-controls="responsive-navbar-nav" />
                 <Navbar.Collapse id="responsive-navbar-nav">
                     <Nav fill variant="pills" className="me-auto" defaultActiveKey="/Home">
